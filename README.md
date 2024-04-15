@@ -14,7 +14,7 @@ To connect the git:
   git init
 ```
 ```bash
-  git add *
+  git add .
 ```
 ```bash
   git branch -m main
